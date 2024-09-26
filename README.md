@@ -1,6 +1,4 @@
-<a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=41986369" target="_blank">
-  <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="814" height="auto" alt="Activity Trends of pingcap/tidb - Last 28 days">
-</a>
+<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="814" height="auto" alt="Activity Trends of pingcap/tidb - Last 28 days">
 
 ## About Me:
 Senior SEO Specialist | Data analyst
