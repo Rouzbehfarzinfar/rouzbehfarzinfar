@@ -1,9 +1,12 @@
 ### <img width="1834" alt="Make your README" src="https://github.com/Rouzbehfarzinfar/rouzbehfarzinfar/assets/73777520/093e1475-6f9b-48aa-b71b-9a97461417e6">
 
-Hi there 👋 This is Rouzbeh...
+<h2>Hi there 👋 This is Rouzbeh...</h2>
 
 <!--
 **Rouzbehfarzinfar/rouzbehfarzinfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h3>My Expertise</h3>
+<p>https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,py,r,regex,cpp,git,github,mysql,firebase</p>
 
 Here are some ideas to get you started:
 
