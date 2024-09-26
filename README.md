@@ -1,4 +1,4 @@
-##About Me:
+## About Me:
 Senior SEO Specialist | Data analyst
 
 ### 💻 Tech Stack:
