@@ -28,11 +28,6 @@ I'm a passionate SEO specialist with over 5 years of experience helping business
 
 -----
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
 ### What I do
 
 I do Open Source. In fact, I do Open Source so much, that 95% of my work on
