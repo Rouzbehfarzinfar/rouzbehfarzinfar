@@ -1,7 +1,7 @@
 ## About Me:
 <b>Senior SEO Specialist | Data analyst</b>
 
-I'm a passionate SEO specialist with over 5 years of experience helping businesses achieve sustainable organic growth. My expertise spans across technical SEO, content strategy, and comprehensive digital marketing solutions.
+I'm a passionate SEO specialist with over 5 years of experience helping businesses achieve sustainable organic growth. My expertise spans across technical SEO, content strategy, and comprehensive digital marketing solutions. When I'm not optimizing websites, I enjoy staying updated with the latest industry trends, contributing to SEO communities, and sharing knowledge through mentoring and content creation.
 
 <pre>
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
