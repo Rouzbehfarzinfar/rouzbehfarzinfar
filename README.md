@@ -1,13 +1,12 @@
 <h1 align="left"><b>Hi, I'm Rouzbeh! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 A passionate SEO specialist with +5 years of experience helping businesses achieve sustainable organic growth. My expertise spans across technical SEO, content strategy, and comprehensive digital marketing solutions. 
 <br><br><br>✍️ A little more about me... <br><br><pre>
-💻 Self-taught SEO Specialist with a focus on technical audits, semantic SEO, and automation
-📌 Focus Areas: Scalable SEO solutions, technical audits, workflow automation.
+💻 Self-taught SEO Specialist focused on technical audits, semantic SEO, and automation
+📌 Areas of interest: Scalable SEO solutions, technical audits, LLMs, and workflow automation.
 📈 Currently exploring semantic search, automation, and advanced SEO audits.
-🛠️ Core Skills: Technical SEO, , Workflow Automation.
-🌐 Comfortable with JavaScript, Python, SQL, Regex, and cloud APIs.
-🚀 Skilled at building scalable SEO solutions, and data analysis.
-🎯 Focused on innovative, data-driven SEO strategies and delivering measurable results.
+🛠️ Skilled at transforming complex data into actionable insights
+🚀 Comfortable with JavaScript, Python, SQL, Regex, and cloud APIs.
+🎯 Passionat about innovative, data-driven SEO strategies that deliver measurable results.
 </pre>
 
 
