@@ -1,5 +1,5 @@
 <h1 align="left"><b>Hi, I'm Rouzbeh! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-A passionate SEO specialist with +5 years of experience helping businesses achieve sustainable organic growth. My expertise spans across technical SEO, content strategy, and comprehensive digital marketing solutions. 
+A passionate SEO specialist with +5 years of experience helping businesses achieve sustainable organic growth. My expertise spans across technical SEO, content strategy, recovery and audit, automation, SEO R&D, data analysis, and comprehensive search optimization solutions. 
 <br><br><br>✍️ A little more about me... <br><br><pre>
 💻 Self-taught SEO Specialist focused on technical audits, semantic SEO, and automation
 📌 Areas of interest: Scalable SEO solutions, technical audits, LLMs, and workflow automation.
