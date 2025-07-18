@@ -1,4 +1,4 @@
-<img src="[https://your-image-url.com/banner.png" alt="Header Banner](https://static.vecteezy.com/ti/vecteur-libre/p1/13760949-barre-de-recherche-google-champ-de-recherche-google-avec-recherche-vocale-et-objectif-sur-fond-sombre-gratuit-vectoriel.jpg)" style="width:100%;"/>
+<img src="[https://your-image-url.com/banner.png" alt="Header Banner](https://static.vecteezy.com/ti/vecteur-libre/p1/13760949-barre-de-recherche-google-champ-de-recherche-google-avec-recherche-vocale-et-objectif-sur-fond-sombre-gratuit-vectoriel.jpg)" style="width:100;"/>
 ## About Me:
 I'm a passionate SEO specialist with over 5 years of experience helping businesses achieve sustainable organic growth. My expertise spans across technical SEO, content strategy, and comprehensive digital marketing solutions.
 
