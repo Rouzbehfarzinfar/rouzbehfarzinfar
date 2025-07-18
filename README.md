@@ -1,6 +1,8 @@
 ## About Me:
 Senior SEO Specialist | Data analyst
 
+I'm a passionate SEO specialist with over 5 years of experience helping businesses achieve sustainable organic growth. My expertise spans across technical SEO, content strategy, and comprehensive digital marketing solutions.
+
 <pre>
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
