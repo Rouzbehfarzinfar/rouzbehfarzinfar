@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rouzbehfarzinfard/rouzbehfarzinfard/main/header.jpg" alt="Header Image" style="width:100%;" />
+<img src="https://raw.githubusercontent.com/rouzbehfarzinfard/rouzbehfarzinfard/main/header.jpg"/>
 
 
 ## About Me
