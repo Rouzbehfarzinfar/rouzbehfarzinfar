@@ -1,4 +1,5 @@
-<img src="[(https://github.com/Rouzbehfarzinfar/rouzbehfarzinfar/blob/main/13760949-barre-de-recherche-google-champ-de-recherche-google-avec-recherche-vocale-et-objectif-sur-fond-sombre-gratuit-vectoriel.jpg)" alt="Header Banner] style="width:100;"/>
+<img src="https://raw.githubusercontent.com/rouzbehfarzinfard/rouzbehfarzinfard/main/header.jpg" alt="Header Image" style="width:100%;" />
+
 
 ## About Me
 I'm a passionate SEO specialist with over 5 years of experience helping businesses achieve sustainable organic growth. My expertise spans across technical SEO, content strategy, and comprehensive digital marketing solutions.
