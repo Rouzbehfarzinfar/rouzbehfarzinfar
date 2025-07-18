@@ -1,6 +1,3 @@
-<img src="13760949-barre-de-recherche-google-champ-de-recherche-google-avec-recherche-vocale-et-objectif-sur-fond-sombre-gratuit-vectoriel.jpg"/>
-
-
 ## About Me
 I'm a passionate SEO specialist with over 5 years of experience helping businesses achieve sustainable organic growth. My expertise spans across technical SEO, content strategy, and comprehensive digital marketing solutions.
 
