@@ -37,11 +37,11 @@ development, it is in my opinion the best combination of logical programming and
   <tr>
   <td width="50%" valign="top">
 
-## Let's Work on Your Project Together!
+## Let's Work on Your Project!
 
 If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a>.
 
   </td>
   <td width="50%" valign="top">
