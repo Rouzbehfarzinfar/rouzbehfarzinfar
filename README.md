@@ -1,6 +1,6 @@
 <h1 align="left"><b>Hi, I'm Rouzbeh! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 I'm a passionate SEO specialist with over 5 years of experience helping businesses achieve sustainable organic growth. My expertise spans across technical SEO, content strategy, and comprehensive digital marketing solutions.
-</br>
+<br/>
 
 ✍️ A little more about me...
 
