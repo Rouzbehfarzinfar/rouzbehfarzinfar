@@ -1,15 +1,13 @@
 <h1 align="left"><b>Hi, I'm Rouzbeh! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-A passionate SEO specialist with over 5 years of experience helping businesses achieve sustainable organic growth. My expertise spans across technical SEO, content strategy, and comprehensive digital marketing solutions.
-<br/>
-
-✍️ A little more about me...
-
-<pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
+A passionate SEO specialist with +5 years of experience helping businesses achieve sustainable organic growth. My expertise spans across technical SEO, content strategy, and comprehensive digital marketing solutions. 
+<br><br><br>✍️ A little more about me... <br><br><pre>
+💻 Self-taught SEO Specialist with a focus on technical optimization, organic growth, and performance improvements.
+📌 Focus Areas: Scalable SEO solutions, technical audits, workflow automation.
+📊 Currently exploring semantic search, automation, and AI in SEO.
+🛠️ Core Skills: Technical SEO, Python, Workflow Automation
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
+📈 Learning Focus: Semantic keyword clustering, automation workflows, and advanced SEO audits.
 🌟 Main languages: Python, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
