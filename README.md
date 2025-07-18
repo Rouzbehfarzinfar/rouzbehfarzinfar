@@ -23,10 +23,6 @@ A passionate SEO specialist with +5 years of experience helping businesses achie
 
 -----
 
-## What I do
-
-I do Open Source. In fact, I do Open Source so much, that 95% of my work on
-GitHub is free and open to everyone. I am really passionate about doing web
-development, it is in my opinion the best combination of logical programming and
-(sometimes) beautiful design.
+## What I do here
+I’m passionate about open source, and all my projects here on GitHub are available for everyone to use and contribute to. I focus on developing SEO tools and automation scripts that simplify complex workflows and enhance search performance. My goal is to push the boundaries of SEO through innovative, data-driven solutions.
 </details>
